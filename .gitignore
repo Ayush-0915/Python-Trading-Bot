@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+ENV/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables / secrets
+.env
+
+# Logs
+trading_bot/logs/*.log
+
+# IDE files
+.vscode/
+.idea/
+.project
+.pydevproject
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
